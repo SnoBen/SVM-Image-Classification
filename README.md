@@ -1,1 +1,1 @@
-# SVM-Image-Classification
+# SVM-&-KNN-Image-Classification
